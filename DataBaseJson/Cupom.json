@@ -1,0 +1,12 @@
+{
+    "teste": {
+        "porcentagem": 90,
+        "valorminimo": 10,
+        "quantidade": 98
+    },
+    "boot": {
+        "porcentagem": 99,
+        "valorminimo": 1,
+        "quantidade": 9
+    }
+}

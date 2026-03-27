@@ -1,0 +1,49 @@
+{
+    "carrinho_1361149060441968820": {
+        "ChannelUrl": "https://discord.com/channels/1356369301350649856/1370485890203254834",
+        "ChannelID": "1370485890203254834",
+        "produtos": [
+            {
+                "mkzin": {
+                    "price": 10,
+                    "qtd": 1,
+                    "name": "Não configurado ainda...",
+                    "pricetotal": 10,
+                    "ChannelID": "1370485890203254834",
+                    "MessageID": "1370485893277679656"
+                }
+            }
+        ],
+        "GuildServerID": "1356369301350649856",
+        "painel": false,
+        "totalpicecar": "10.00",
+        "messagem": "🪐 | Produto: `Não configurado ainda...`\n💸 | Valor unitário: `R$10.00`\n📦 | Quantidade: `1`\n💸 | Total: `R$10.00`\n\n\n📦 **| Produtos no Carrinho:** `1`\n💸 **| Valor a Pagar:** `R$10.00`\n🎁 **| Cupom adicionado:** `Sem Cupom`\n",
+        "accepttermo": true,
+        "messagepagamento": "Não configurado ainda... x1",
+        "messagepagamento2": "Não configurado ainda... - 1, "
+    },
+    "carrinho_1445813681685266552": {
+        "ChannelUrl": "https://discord.com/channels/1446910680023302194/1447375987250561106",
+        "ChannelID": "1447375987250561106",
+        "produtos": [
+            {
+                "pdA": {
+                    "price": 5,
+                    "qtd": 1,
+                    "name": "Teste do Bot",
+                    "pricetotal": 5,
+                    "ChannelID": "1447375987250561106",
+                    "MessageID": "1447375990765519030"
+                }
+            }
+        ],
+        "GuildServerID": "1446910680023302194",
+        "painel": true,
+        "painelname": "buyprodutoporselect",
+        "totalpicecar": "5.00",
+        "messagem": "🪐 | Produto: `Teste do Bot`\n💸 | Valor unitário: `R$5.00`\n📦 | Quantidade: `1`\n💸 | Total: `R$5.00`\n\n\n📦 **| Produtos no Carrinho:** `1`\n💸 **| Valor a Pagar:** `R$5.00`\n🎁 **| Cupom adicionado:** `Sem Cupom`\n",
+        "accepttermo": true,
+        "messagepagamento": "Teste do Bot x1",
+        "messagepagamento2": "Teste do Bot - 1, "
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Testando": {
+        "TotalQtd": 2,
+        "TotalPrice": 0.02
+    },
+    "sla": {
+        "TotalQtd": 1999,
+        "TotalPrice": 1999
+    },
+    "prd": {
+        "TotalQtd": 23,
+        "TotalPrice": 115
+    },
+    "pdA": {
+        "TotalQtd": 2,
+        "TotalPrice": 10
+    }
+}
